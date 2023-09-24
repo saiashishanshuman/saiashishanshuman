@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sai Ashish</h1>
-<h3 align="center">I just started learning ML using Python</h3>
+<h3 align="center">Started with Python ended up with ML and AI (zero regrets to be honest)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiashishanshuman&label=Profile%20views&color=0e75b6&style=flat" alt="saiashishanshuman" /> </p>
 
 - 📫 How to reach me **saiashish1129@gmail.com**
 
-- ⚡ Fun fact **I think I am funny in my head**
+- ⚡ Fun fact **My C drive is more insteresting that my Git Hub account**
 
 
 <h3 align="left">Languages and Tools:</h3>
