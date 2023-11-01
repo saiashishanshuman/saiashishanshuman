@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **saiashish1129@gmail.com**
 
-- ⚡ Fun fact **My C drive is more insteresting that my Git Hub account**
+- ⚡ Fun fact **My C drive is more insteresting than my Git Hub account**
 
 
 <h3 align="left">Languages and Tools:</h3>
